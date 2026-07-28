@@ -1,6 +1,6 @@
 {
 	"$schema": "./node_modules/wrangler/config-schema.json",
-	"name": "web2gem",
+	"name": "web2gem-pool",
 	"main": "dist/worker.js",
 	"build": {
 		"command": "pnpm build",
